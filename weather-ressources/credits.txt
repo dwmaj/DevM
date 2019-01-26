@@ -1,0 +1,4 @@
+API : https://www.metaweather.com/api/
+Photos : https://www.pexels.com/
+Weather Icones : https://www.pixeden.com/media-icons/the-color-icons-set-weather
+Icones : https://github.com/encharm/Font-Awesome-SVG-PNG
