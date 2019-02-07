@@ -3,6 +3,10 @@
 
 - [Javascript](js-reference.md)
 
+## Examples
+
+- [Image 2x](img-2x.md)
+
 ## Workflow - Boilerplate
 
 - Gulp simple workflow: [ZIP](https://github.com/dwmaj/workflow/archive/gulp-elixir.zip) - [Repository](https://github.com/dwmaj/workflow/tree/gulp-elixir)
