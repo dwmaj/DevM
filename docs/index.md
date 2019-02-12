@@ -10,7 +10,7 @@
 ## Workflow - Boilerplate
 
 - Gulp simple workflow: [ZIP](https://github.com/dwmaj/workflow/archive/gulp-elixir.zip) - [Repository](https://github.com/dwmaj/workflow/tree/gulp-elixir)
-- Reset CSS:  [scss](https://raw.githubusercontent.com/dwmaj/devm/master/weather-ressources/styles/_reset.scss)
+- Normalize CSS:  [scss](https://raw.githubusercontent.com/sindresorhus/modern-normalize/master/modern-normalize.css)
 
 ## Exercices Resources
 
