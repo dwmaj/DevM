@@ -15,3 +15,4 @@
 ## Exercices Resources
 
 - EX1: [Sun PNG](https://raw.githubusercontent.com/dwmaj/devm/master/weather-ressources/weather-icons/lc.png), [Sun red PNG](https://raw.githubusercontent.com/dwmaj/devm/master/weather-ressources/weather-icons/lc-red.png), [Backgrounds](https://github.com/dwmaj/devm/tree/master/weather-ressources/bg)
+- EX2: [Bars SVG](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/svg/bars.svg), [Close PNG](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/svg/close.svg)
