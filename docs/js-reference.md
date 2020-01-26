@@ -274,3 +274,26 @@ window.localStorage.setItem('city', 'Paris');
 // Récupérer une clé/valeur depuis le 'local storage'.
 const city = window.localStorage.getItem('city');
 ```
+
+### FormData
+
+```html
+<form class="js-form">
+    <input type="text" name="name" value="">
+    <input type="email" name="email" value="">
+    <button type="submit">Send</button>
+</form>
+```
+
+```javascript
+const form = document.querySelector('.js-form');
+form.addEventListener('submit', function(e) {
+  e.preventDefault();
+  // On récupère les champs du formulaire
+  const inputs = form.elements;
+  // On utilise ce tableau pour récupérer la valeur du champ email
+  const email = inputs['email'].value
+  console.log(email)
+});
+```
+
