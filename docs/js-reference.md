@@ -275,7 +275,7 @@ window.localStorage.setItem('city', 'Paris');
 const city = window.localStorage.getItem('city');
 ```
 
-### FormData
+### Form Field Value
 
 ```html
 <form class="js-form">
